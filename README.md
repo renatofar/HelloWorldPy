@@ -1,2 +1,2 @@
 # HelloWorldPy
- Primeiro repo versionado Py
+ Primeiro repositório versionado de um Hello World em Python
